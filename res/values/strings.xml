@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Swim Time Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="course">Course</string>
+    <string name="stroke">Stroke</string>
+    <string name="distance">Distance</string>
+    <string name="colon">:</string>
+    <string name="period">.</string>
+    <string name="time">Time</string>
+    <string name="go">Go!</string>
+    <string name="test">Pop-Up Test</string>
+    <string name="hello">Hello!</string>
+    <string name="close">Calculate Again</string>
+    <string name="lcm">Long Course Meter Time:</string>
+    <string name="scm">Short Course Meter Time:</string>
+    <string name="scy">Short Course Yard Time:</string>
+	<string-array name="courses">
+	    <item>Long Course Meters</item>
+	    <item>Short Course Meters</item>
+	    <item>Short Course Yards</item>
+	</string-array>
+	<string-array name= "strokes">
+	    <item>Freestyle</item>
+	    <item>Backstroke</item>
+	    <item>Breaststroke</item>
+	    <item>Butterfly</item>
+	    <item>I.M.</item>
+	</string-array>
+	<string-array name="distance">
+	    <item>50</item>
+	    <item>100</item>
+	    <item>200</item>
+	    <item>400/500</item>
+	    <item>800/1000</item>
+	    <item>1500/1650</item>
+	</string-array>
+</resources>
